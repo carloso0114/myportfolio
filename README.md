@@ -11,7 +11,7 @@ Portfolio made following the Microverse's template where I could showcase all my
 
 ## Live Demo
 
-[Portfolio]()
+[Portfolio](https://carloso0114.github.io/myportfolio/)
 
 
 ## Getting Started
@@ -21,14 +21,15 @@ To get a local copy up and running follow these simple example steps.
 ## Clone the repository
 
 ```
-   git clone 
+   1. git clone https://github.com/carloso0114/myportfolio.git on your command line
+   2. open index.html with your favorite browser 
 ```
 
 ### Usage
 
 Open index.html in your browser.
 
-👤 **Marcelo Fernandes**
+👤 **Carlos Ospina**
 
 - GitHub: [@carloso0114](https://github.com/carloso0114)
 
@@ -36,17 +37,14 @@ Open index.html in your browser.
 
 ## Acknowledments
 
-- Microverse team for providing amazing design templates for portfolio.
-- Font Awesome
-- W3schools
-- Twitter Boostrap
-- Google Fonts
+- CodingNepal for the free template.
+- Fontawesome
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/carloso0114/myportfolio/issues).
 
 ## Show your support
 
